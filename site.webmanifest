@@ -1,0 +1,20 @@
+{
+ "name": "Stoughton Water Damage Pros",
+ "short_name": "Stoughton WDP",
+ "start_url": "/",
+ "display": "browser",
+ "background_color": "#FFFFFF",
+ "theme_color": "#241468",
+ "icons": [
+  {
+   "src": "/assets/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "/assets/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}
